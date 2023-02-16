@@ -1,0 +1,14 @@
+node_modules
+.env
+build
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
+# phrase and apiKey
+.secret
+.infura
+.etherscan
